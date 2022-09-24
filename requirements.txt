@@ -1,7 +1,0 @@
-opencv
-numpy
-streamlit
-sklearn 
-tensorflow
-keras
-models
