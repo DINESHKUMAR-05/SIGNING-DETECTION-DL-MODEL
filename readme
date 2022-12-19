@@ -1,0 +1,1 @@
+This is a CNN model to identify the whether a person is signing or not, and it is presented via streamlit.We have made a dataset of images of people signing and unsigning and we have processed the images using cv2 library.We have achieved a accuracy of 96.70% with this model.
